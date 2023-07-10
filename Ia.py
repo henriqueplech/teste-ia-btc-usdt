@@ -9,6 +9,7 @@ try:
     info = client.get_aggregate_trades(symbol='BTCUSDT')
 
     # Converta os dados em um dataframe do pandas
+    # Alterando alguma coisa
     df = pd.DataFrame(info)
 
     # Exiba as informações
