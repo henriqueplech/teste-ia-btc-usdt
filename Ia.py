@@ -16,4 +16,5 @@ try:
     print(df)
 except Exception as e:
     # Exiba qualquer erro que ocorrer
+    #adasdsad
     print(e)
